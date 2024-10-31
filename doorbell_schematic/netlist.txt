@@ -1,0 +1,13 @@
+* Netlist created with www.circuit-diagram.org
+* 
+V1 0 0
+R2 1 2 180
+D3 1 0
+V4 3 0
+'Source com:4 voltage=5 frequency=50 showvoltage=True t=Earth
+'Relay 3:5 5:6 2:7 1:8
+'buzzer b:9 a:10
+'microcontroller #2:10 #0:11 #1:7 #3:12 header=PC814 sz=4 p0=A, C p1=Collector p2=C, A p3=Emitter p4= p5= p6= p7= p8= p9= p10= p11= p12= p13= p14= p15= p16= p17= p18= p19= p20= p21= p22= p23= p24= p25= p26= p27= p28= p29= p30= p31= p32= p33= p34= p35= p36= p37= p38= p39=
+R5 12 4 10000
+R6 9 11 1000
+'microcontroller #1:2 #0:3 #6:12 #7:7 #4:8 sz=8 p0=GND p1=TX/IO1 p2=GPIO2 p3=CH_PD p4=GPIO0 p5=RESET p6=RX/IO3 p7=VCC p8= p9= p10= p11= p12= p13= p14= p15= p16= p17= p18= p19= p20= p21= p22= p23= p24= p25= p26= p27=
