@@ -13,7 +13,7 @@ In this example the door will open for 7 seconds wenn you ring this morse code: 
 
 The circuit:
 
-<img src="https://raw.githubusercontent.com/h4km4k/esp01s_dingdong/refs/heads/main/images/circuit.png" alt="Not_presssed" style="width:75%; height:auto;">
+<img src="https://raw.githubusercontent.com/h4km4k/esp01s_dingdong/refs/heads/main/images/circuit1.png" alt="Not_presssed" style="width:75%; height:auto;">
 
 
 Here are a screenshot when the doorbell was not pressed:
