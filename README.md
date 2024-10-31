@@ -6,6 +6,12 @@ The code was written almost exclusively by sschori <https://github.com/sschori/E
 I just removed a memory leak and added the doorbell/opener code.
 
 
+
+The circuit:
+
+<img src="https://raw.githubusercontent.com/h4km4k/esp01s_dingdong/refs/heads/main/images/circuit.png" alt="Not_presssed" style="width:75%; height:auto;">
+
+
 Here are a screenshot when the doorbell was not pressed:
 
 <img src="https://raw.githubusercontent.com/h4km4k/esp01s_dingdong/refs/heads/main/images/Screenshot_1.png" alt="Not_presssed" style="width:25%; height:auto;">
