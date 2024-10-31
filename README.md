@@ -1,9 +1,13 @@
 # esp01s_dingdong
-Software and schematics for Sidle 6+n (should work for every bell that works with 12V) Doorbell and Dooropener.
+Software and schematics for Siedle 6+n (should work for every bell that works with 12V) Doorbell, Dooropener and morse decoder.
 
 The code was written almost exclusively by sschori <https://github.com/sschori/ESP01RelayModul>. Thank you for that.
 
-I just removed a memory leak and added the doorbell/opener code.
+I just removed a memory leak and added the doorbell/opener/morse code.
+
+I made some "security by obscurity" with hiding the settings link ;). To do the Setup flash the esp, powercycle it then connect to the "Relay-Modul" AP. Then go to <http://192.168.1.1/settings> to connect to your home wifi and set your (mdns) hostname.
+
+In this example the door will open for 7 seconds wenn you ring this morse code: ". . - . . -"
 
 
 
